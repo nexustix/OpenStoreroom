@@ -1,5 +1,7 @@
 # OpenStoreroom
 
+An automated OpenComputers storage system, written in fennel https://fennel-lang.org/
+
 ### files
 
 - poser.fnl - manages single transposers
@@ -9,6 +11,8 @@
 - fetcher-standalone.fnl - simple example program to utillize the storage system
 
 ### building
+
+Requires fennel https://fennel-lang.org/
 
 `make`
 
