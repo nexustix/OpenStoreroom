@@ -5,8 +5,8 @@
 - poser.fnl - manages single transposers
 - cluster.fnl - manages group of transposers and exposes them as a whole
 - util-stack.fnl - utillities to deal with stack data
-- fetcher-server - non-production proof of concept of a headless implementation
-- fetcher-standalone - simple example program to utillize the storage system
+- fetcher-server.fnl - non-production proof of concept of a headless implementation
+- fetcher-standalone.fnl - simple example program to utillize the storage system
 
 ### building
 
